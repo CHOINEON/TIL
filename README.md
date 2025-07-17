@@ -13,8 +13,8 @@ Today, I learned how to make my GitHub profile stand out more effectively.
    - GitHub Stats
    - Technical skills
    - Social media or contact links
-   - 
-✔ 🌱To make my contribution graph look more dynamic🌱, I used this awesome project:
+     
+###🌱To make my contribution graph look more dynamic🌱, I used this awesome project:
    👉 [github-profile-3d-contrib by yoshi389111](https://github.com/yoshi389111/github-profile-3d-contrib)
 
 ### 🧩🌈🎨 How to Use github-profile-3d-contrib 🧩🌈🎨
