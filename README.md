@@ -1,7 +1,7 @@
 # TIL — Today I Learned...✏️
 
 
-Today, I learned how to make my GitHub profile stand out more effectively.
+Today, I learned how to make my GitHub profile stand out more effectively🌈🎨
 
 ✔ I discovered a great resource for icons to enhance my profile visually.
 
@@ -19,7 +19,7 @@ Today, I learned how to make my GitHub profile stand out more effectively.
    👉 [github-profile-3d-contrib by yoshi389111](https://github.com/yoshi389111/github-profile-3d-contrib)
    ---
 
-### 🧩🌈🎨 How to Use github-profile-3d-contrib 🧩🌈🎨
+### 🧩 How to Use github-profile-3d-contrib 🧩
 🔧I had some issues when adding the workflow in the Actions tab, but I finally made it!🔧
 Before writing my own YAML file, I had to generate a GitHub token and paste it into the file.
 
@@ -53,4 +53,4 @@ Uncheck the boxes like shown below:
 6️⃣ Add the SVG to Your README
 used profile-night-rainbow.svg
 
-###🎉 Tada! Everything works just fine now.
+### 🎉Tada! Everything works just fine now.
