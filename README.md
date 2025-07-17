@@ -21,6 +21,7 @@ Today, I learned how to make my GitHub profile stand out more effectively🌈�
 
 ### 🧩 How to Use github-profile-3d-contrib 🧩
 🔧I had some issues when adding the workflow in the Actions tab, but I finally made it!🔧
+
 Before writing my own YAML file, I had to generate a GitHub token and paste it into the file.
 
 1️⃣ Create a special repository
