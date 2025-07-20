@@ -1,0 +1,24 @@
+# TIL: React Native CLI Project Setup
+
+## ✅ What I Did
+Installed Node.js
+Set up environment variables for React Native 
+
+Installed Yarn as package manager
+Initialized project with:
+
+```npx @react-native-community/cli init heyyoung```
+
+### 📱 Why React Native?
+React Native is a cross-platform framework for building mobile apps with JavaScript and React. It allows for shared codebase between iOS and Android.
+
+### ⚙️ Why CLI over Expo?
+Needed more flexibility and native module support
+CLI gives full access to native code and configuration
+Better for custom native features or integrations
+
+### 📦 Why Yarn?
+Faster and more deterministic dependency management than npm
+yarn.lock ensures consistent installs across environments
+Preferred for GitHub Actions CI/CD workflows for better compatibility and caching
+
