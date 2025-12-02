@@ -7,4 +7,4 @@ Focus Areas: Python, JavaScript, React, Django, Data Structure, effective toolin
   <img src="/lofi-study.jpg" alt="studying image" />
 </p>
 
-Ready to build the next chapter.
+Ready to build the next chapter!
