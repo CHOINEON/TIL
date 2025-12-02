@@ -4,7 +4,7 @@ A practical log of my journey in software development. I document latest insight
 
 Focus Areas: Python, JavaScript, React, Django, Data Structure, effective tooling (CI/CD, Git) and etc.
 <p align="center">
-  <img src="images/logo.svg" alt="studying image" width="150" />
+  <img src="/lofi-study.jpg" alt="studying image" width="150" />
 </p>
 
 Ready to build the next chapter.
